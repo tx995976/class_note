@@ -61,7 +61,7 @@
     ---
 
     @import "1.5.6.png" {cmd="img"}
-    @import "1.5.7.png" {cmd="img"}
+    @import "1.5.7.png" {cmd="img"} 
 
     ---
 
@@ -82,9 +82,13 @@
 
 7. __How to carry out semantic analysis of compound technical terms ?__ 
 
+
+
 ####  analysis_of_compound {ignore=true}
 
 ---
+@import "1.7.0.png" {cmd="img"}
+> 准确把握复合技术术语含义的第一步是分析其结构。根据限定词与中心名词的关系，非动词复合词可分为9类
 
 @import "1.7.1.png" {cmd="img"}
 @import "1.7.2.png" {cmd="img"}
@@ -99,9 +103,14 @@
 
 1. 词根,前缀,后缀
 
-| root | meaning | eg |
-| --- | --- | --- |
-| acu - | sharp | acute angle |
+@import "2.1.1.png" {cmd="img"}
+@import "2.1.2.png" {cmd="img"}
+@import "2.1.3.png" {cmd="img"}
+@import "2.1.4.png" {cmd="img"}
+@import "2.1.5.png" {cmd="img"}
+@import "2.1.6.png" {cmd="img"}
+@import "2.1.7.png" {cmd="img"}
+@import "2.1.8.png" {cmd="img"}
 
 
 ---
@@ -252,6 +261,7 @@
 
 - 6 
 @import "4.8.png" {cmd="img"}
+
 
 
 
